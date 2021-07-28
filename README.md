@@ -1,2 +1,3 @@
 # Vue_api
-Integração de API de usuários com página feita em VueJs 
+Todas as informações do funcionamento da Api estão no arquivo info.html na raiz do projeto.
+Att Eduardo Augusto Oliveira.
